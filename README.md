@@ -95,7 +95,9 @@ plot(fig) # <- this is required to plot the fig also on the LiaScript canvas
 ```
 @Pyodide.eval
 
-> **NOTE:** You can resize the terminal!
+> **NOTE:** You can resize the terminal and you can click onto the image to
+> enlarge it. The additional loading of libraries is only required once, then
+> they are stored locally...
 
 ## 2. LiaScript Code-Runner
 
